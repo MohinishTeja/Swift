@@ -9,7 +9,7 @@
     <a href="https://github.com/MohinishTeja/swift"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://youtu.be/IkA6MlfwPXM">Video Demo</a>
+    <a href="https://youtu.be/tvyXQ8IqBMA">Video Demo</a>
     ·
     <a href="https://lively-paper-9757.on.fleek.co">View DApp</a>
   </p>
