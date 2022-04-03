@@ -4,6 +4,7 @@ import Web3 from '/web3';
 */
 
 console.log("connected");
+console.log("proceed");
 var web3
 /*
 window.addEventListener('load', async () => {
