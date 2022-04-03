@@ -74,6 +74,7 @@ As this is a game which requires quick response from blockchain network, **Polyg
 <img src="img/Screenshot (1416).png" height="60%" width="60%" >
 <img src="img/Screenshot (1423).png" height="60%" width="60%" >
 <img src="img/Screenshot (1425).png" height="60%" width="60%" >
+  
 </p>
 
 # <a name="team-members"></a>Team Members
