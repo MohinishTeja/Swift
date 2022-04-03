@@ -7,6 +7,7 @@
 alert("TIme Started! Act swiftly!!")
 let timerTime = 0;
 let isRunning = false;
+
 let interval;
 
 function startTimer () {
